@@ -1,0 +1,21 @@
+body { margin:0px;padding: 0px;background: transparent;color: black;font-family: "Times New Roman";font-size: 20pt;line-height: 1.2em;word-wrap: break-word; }
+a { font-weight: bold;color: black;text-decoration:none; }
+a.chapterlink { font-weight: bold;color: black;text-decoration:none; }
+p { text-align:justify;margin: 0pt;text-indent:0em; }
+div.chapter { margin-bottom: 0px; }
+div.chapternumber { text-align:center;margin-top:1cm;margin-bottom:0.1cm;padding: 0cm; }
+span.chapternumberstyle { font-family: Times New Roman;font-size:20pt;font-weight:bold; }
+div.chapterheaderdecorations { font-size: 40pt;color: black; }
+div.chapterbody { margin: 0px 0px 20px 0px;padding: 0px 0px 0px 0px; }
+span.attribute { color: blue;font-weight: bold; }
+span.enemy { color: red;font-weight: bold; }
+span.time { text-align: right;font-style: italic; }
+span.codeword { font-style: italic; }
+span.item { font-weight: bold;color: green; }
+div.chapterheadersymbols { color:black;font-size: 40px; }
+h1 { margin-top:4em;margin-bottom:2em;page-break-after:avoid;font-size: 1.40em;text-align: center;text-indent:0em; }
+h2 { margin-top:3em;margin-right:0em;margin-bottom:2em;margin-left:0em;page-break-after:avoid;font-size: 1.20em;text-align: center;text-indent:0em; }
+h3 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: 1.10em;text-align: center;text-indent:0em; }
+h4 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
+h5 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
+h6 { margin-top:2em;margin-bottom:2em;line-height:normal;page-break-after:avoid;font-size: .90em;text-align: center;text-indent:0em; }
